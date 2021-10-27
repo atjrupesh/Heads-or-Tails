@@ -25,6 +25,3 @@ Tails
 ```
 
 
-# Solution
-
-[https://repl.it/@appbrewery/day-4-1-solution](https://repl.it/@appbrewery/day-4-1-solution)
